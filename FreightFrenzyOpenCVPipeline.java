@@ -12,7 +12,9 @@ import org.openftc.easyopencv.OpenCvCameraRotation;
 import org.openftc.easyopencv.OpenCvInternalCamera;
 import org.openftc.easyopencv.OpenCvPipeline;
 
-
+/*
+This code is use for recognizing our yellow team shipping element position during auto
+*/
 public class FreightFrenzyOpenCVPipeline extends OpenCvPipeline
 {
     /*
