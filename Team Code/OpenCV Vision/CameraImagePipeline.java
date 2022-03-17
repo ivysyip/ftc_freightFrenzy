@@ -18,10 +18,14 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
+/*
+Sample pipeline we use for processing the frame and finding the 2/3 blue barcodes
+*/
+
 public class CameraImagePipeline extends OpenCvPipeline{
 
     /*
-     * Our working image buffers
+     * image buffers
      */
     Mat cbMat = new Mat();
     Mat thresholdMat = new Mat();
