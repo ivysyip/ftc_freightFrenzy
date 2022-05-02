@@ -37,7 +37,7 @@ import java.util.*;
 
 
 @TeleOp(name="OpenCVAlignment", group="Linear Opmode")
-@Disabled
+//Arm alignment according to using our turret design and barcode as vision targets
 public class OpenCVAutoAlignmentTest extends LinearOpMode {
     private DcMotorEx turret = null;
     private DcMotorEx armAngle = null;
