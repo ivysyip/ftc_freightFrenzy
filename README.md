@@ -7,3 +7,4 @@ Full Repository for our team: https://gitlab.com/ftcpirhos/freightfrenzy
 - OpenCV vision
   - Team Element Recognition
   - Automated Arm Placement based on barcode positions
+- Multithreading during Autonomous Period 
