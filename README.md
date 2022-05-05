@@ -8,3 +8,4 @@ Full Repository for our team: https://gitlab.com/ftcpirhos/freightfrenzy
   - Team Element Recognition
   - Automated Arm Placement based on barcode positions
 - Multithreading during Autonomous Period 
+- Sample Methods using Run To Position Mode on motors in both Auto and TeleOp periods
