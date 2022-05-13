@@ -14,7 +14,7 @@ import org.firstinspires.ftc.teamcode.thread.ThreadPool;
 import org.firstinspires.ftc.teamcode.thread.TaskThread;
 
 @TeleOp(name="Test thread design", group="Linear Opmode")
-@Disabled
+//@Disabled
 public class NewThreadDesign extends LinearOpMode {
     // Declare OpMode members.
     private ElapsedTime runtime = new ElapsedTime();
